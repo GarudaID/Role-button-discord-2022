@@ -14,7 +14,7 @@ const express = require("express")
 const app = express()
 
 app.get("/", (req, res) => {
-  res.send("Knight of Favonius Roles")
+  res.send("Bot Kaixin#5925")
 })
 
 app.listen(3000, () => {
@@ -29,12 +29,12 @@ client.on('ready', () => {
 
 Nuggies.handleInteractions(client)
 
-client.commands = new Discord.Collection();
-client.aliases = new Discord.Collection();
+client.commands = new Discord.Collection(); //
+client.aliases = new Discord.Collection()
 
 fs.readdir('./commands/', (err, files) => {
     if (err) console.log(err);
-    const file = files.filter(f => f.split('.').pop() === 'js');
+    const file = files.filter(f => f.split('.').pop() === 'non'); //js
     if (file.length < 1) {
         console.log('No Commands.');
         return;
@@ -54,7 +54,7 @@ client.on('message', async message => {
     if (message.author.bot || message.channel.type === 'dm') return;
     if (message.content.startsWith(prefix)) {
         const messageArray = message.content.split(' ');
-        const cmd = messageArray[0]
+        const cmd = messageArray[] //0
         const args = messageArray.slice(1);
         const command = client.commands.get(cmd.slice(prefix.length)) || client.commands.get(client.aliases.get(cmd.slice(prefix.length)));
         if (command) {
