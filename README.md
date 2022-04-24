@@ -1,5 +1,5 @@
 <h2><p align="center">
-  <b>Simple and easy to use for yall</b>
+  <b>Simple and easy to use for yall<br>bot roles button</b>
   </p></h2>
 <p align="center">
   <img src="./pict/pict1.gif"</a>
