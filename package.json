@@ -1,5 +1,5 @@
 {
-  "name": "buttonroles-example",
+  "name": "roles-button,
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/Nuggies-bot/buttonroles-example.git"
   },
-  "author": "",
+  "author": "KaiXin",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/Nuggies-bot/buttonroles-example/issues"
