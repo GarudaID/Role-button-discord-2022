@@ -1,6 +1,14 @@
-<h2><p align="center">
-  <b>Simple and easy to use for yall<br>bot roles button</b>
-  </p></h2>
+<a href="https://discord.gg/creatorhub"><img width="120" height="120" align="left" style="float: left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/CIA_logo_%282021%29.svg/444px-CIA_logo_%282021%29.svg.png"></a>
+# Role Button Discord
+
+[![CreatorHub](https://img.shields.io/discord/857314563639476275?color=5865F2&logo=discord&logoColor=white&style=for-the-badge)](https://dsc.gg/kof/)
+[![Language](https://img.shields.io/github/languages/top/ProbablyRaging/CreatorBot?color=f0db4f&logoColor=white&style=for-the-badge)]()
+[![Library](https://img.shields.io/badge/library-discord.js-5865f2?style=for-the-badge)](https://www.npmjs.com/package/discord.js)
+[![DiscordJS](https://img.shields.io/npm/v/discord.js.svg?maxAge=3600&style=for-the-badge)](https://www.npmjs.com/package/discord.js)
+
+## Supported Languages
+-   English
+
 <p align="center">
   <img src="./pict/pict1.gif"</a>
   </p>
